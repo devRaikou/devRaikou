@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my details are available at [ardagulez.com](ardagulez.com)
+- 👨‍💻 All of my details are available at [raikou.me](raikou.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
