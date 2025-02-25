@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raikou</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/deraikou" target="blank"><img src="https://img.shields.io/twitter/follow/dznraikou?logo=twitter&style=for-the-badge" alt="dznraikou" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devraikou" target="blank"><img src="https://img.shields.io/twitter/follow/dznraikou?logo=twitter&style=for-the-badge" alt="devraikou" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
