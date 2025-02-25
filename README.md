@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/twitter/follow/devraikou?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
   <a href="https://github.com/RaikouDev">
-    <img src="https://img.shields.io/github/followers/RaikouDev?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/devRaikou?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
 </p>
 
