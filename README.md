@@ -5,7 +5,7 @@
   <a href="https://twitter.com/devraikou" target="_blank">
     <img src="https://img.shields.io/twitter/follow/devraikou?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  <a href="https://github.com/RaikouDev">
+  <a href="https://github.com/devRaikou">
     <img src="https://img.shields.io/github/followers/devRaikou?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
 </p>
@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
@@ -60,11 +61,14 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devRaikou&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devRaikou&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRaikou&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
+---
+
+### 📌 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRaikou&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devRaikou&theme=radical&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
