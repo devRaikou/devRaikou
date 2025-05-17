@@ -13,16 +13,16 @@
 ---
 
 ### 🛠️ About Me
-- 💻 I’m a **full-stack developer** with experience in **backend and frontend development**.
+- 💻 I’m a **full-stack developer** with experience in **frontend and backend development**.
 - 🔭 I’m currently working on **Minecraft Plugins, Discord Bots, and Web Applications**.
-- 🌱 I’m currently learning **Java and advanced backend development**.
-- 🚀 Passionate about **open-source projects, problem-solving, and automation**.
-- 🎯 Always striving to improve my skills and build innovative projects.
-- 👨‍💻 Check out my portfolio: **[raikou.me](https://raikou.me)**
+- 🌱 Currently learning **advanced backend techniques and Firebase**.
+- 🚀 Passionate about **open-source, performance optimization, and developer tools**.
+- 👨‍💻 Portfolio: **[raikou.me](https://raikou.me)**
 
 ---
 
-### 🛠️ Tech Stack
+### 💡 Tech Stack
+
 #### 🚀 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -30,12 +30,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
 #### 💻 Backend & Database
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
@@ -43,6 +45,7 @@
 #### 🌐 Frontend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
@@ -84,7 +87,7 @@
   <a href="https://raikou.me" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" />
   </a>
-  <a href="mailto:arda@raikou.me" target="_blank">
+  <a href="mailto:raikou@sghq.eu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
