@@ -13,17 +13,23 @@
 ---
 
 ### 🛠️ About Me
-- 💻 I’m a **full-stack developer** with experience in **frontend and backend development**.
-- 🔭 I’m currently working on **Minecraft Plugins, Discord Bots, and Web Applications**.
-- 🌱 Currently learning **advanced backend techniques and Firebase**.
-- 🚀 Passionate about **open-source, performance optimization, and developer tools**.
-- 👨‍💻 Portfolio: **[raikou.me](https://raikou.me)**
+- 💻 Full-stack developer skilled in frontend & backend.
+- 🔭 Working on Minecraft Plugins, Discord Bots & Web Apps.
+- 🌱 Learning advanced backend techniques and Firebase.
+- 🚀 Passionate about open-source, optimization, and dev tools.
+- 👨‍💻 Portfolio: [raikou.me](https://raikou.me)
+
+---
+
+### 🚀 Active Projects
+- 🌐 **[SGHQ Network](https://sghq.network)**
+- 🌐 **[NextPrintX](https://nextprintx.tr)**
 
 ---
 
 ### 💡 Tech Stack
 
-#### 🚀 Programming Languages
+#### Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -33,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-#### 💻 Backend & Database
+#### Backend & DB
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
@@ -42,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-#### 🌐 Frontend Development
+#### Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
@@ -51,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
-#### 🔧 DevOps & Tools
+#### DevOps & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -69,7 +75,7 @@
 
 ---
 
-### 📌 GitHub Activity Graph
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devRaikou&theme=radical&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
