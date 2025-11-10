@@ -17,7 +17,7 @@
 - 🔭 Working on Minecraft Plugins, Discord Bots & Web Apps.
 - 🌱 Learning advanced backend techniques and Firebase.
 - 🚀 Passionate about open-source, optimization, and dev tools.
-- 👨‍💻 Portfolio: [raikou.me](https://raikou.me)
+- 👨‍💻 Portfolio: [raikou.dev](https://raikou.dev)
 
 ---
 
