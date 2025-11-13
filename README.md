@@ -90,7 +90,7 @@
   <a href="https://instagram.com/ard4gulez" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://raikou.me" target="_blank">
+  <a href="https://raikou.dev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" />
   </a>
   <a href="mailto:raikou@sghq.eu" target="_blank">
