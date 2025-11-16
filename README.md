@@ -1,6 +1,6 @@
 ```txt
 > raikou@github:~$ whoami
-Full-Stack Developer (Backend Oriented)
+Full-Stack Web Developer (Backend Oriented)
 
 > raikou@github:~$ about
 - Builds backend systems, APIs, and automation tools
