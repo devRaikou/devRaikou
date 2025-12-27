@@ -1,37 +1,37 @@
-```txt
-> raikou@github:~$ whoami
-Full-Stack Developer (Backend & Java Oriented)
+<p align="center">
+  <img src="/banner.jpg" width="700" />
+</p>
 
-> raikou@github:~$ about
-- Designs and builds scalable backend systems & APIs
-- Develops modern frontend applications with React & Next.js
-- Specialized in Java-based Minecraft plugin development
-- Focused on performance, clean architecture, and maintainable code
-- Enjoys automation, system design, and solving complex problems
+Yo 👋  
+I’m **devRaikou**.
 
-> raikou@github:~$ stack --list
-Languages:      JavaScript, TypeScript, Java, Python, C#, PHP
-Backend:        Node.js, Express, REST APIs
-Frontend:       React, Next.js, Vue
-Databases:      MongoDB, MySQL, SQLite
-DevOps & Tools: Linux, Docker, Nginx, Git
+I live on the backend side of things.  
+I build systems, break them, fix them, then make them faster.  
+If it’s slow, messy, or duct-taped together — yeah, that bugs me.
 
-> raikou@github:~$ projects --active
-• SGHQ Network        
-• NextPrintX          
+Mostly into **Java backend stuff** and **Minecraft plugin development**,  
+but I also mess around with modern web apps when needed.  
+APIs, servers, performance tuning… that’s my playground.
 
-> raikou@github:~$ interests
-- Backend architecture & system design
-- High-performance Minecraft plugins
-- Web security & optimization
-- Clean code & scalable infrastructures
+### 🧠 Stuff I Actually Use
+- **Java** (Minecraft plugins, backend logic, hardcore grind)
+- **JavaScript / TypeScript**
+- **Node.js & Express**
+- **React / Next.js**
+- **MongoDB, MySQL**
+- **Linux, Docker, Nginx**
+- Git, APIs, system design, breaking things on purpose
 
-> raikou@github:~$ portfolio
-https://raikou.dev
+Short version:
+> Make it work.  
+> Make it fast.  
+> Don’t make future-me hate it.
 
-> raikou@github:~$ contact
-Email   : hello@raikou.dev
-Twitter : @devraikou
+### 🌍 Portfolio
+👉 https://raikou.dev
 
-> raikou@github:~$ exit
+### 📫 Hit Me Up
+📧 **raikou@reape.rs**
 
+Open to new projects, freelance gigs, collabs, weird ideas —  
+if it’s interesting, I’m down. 🤝
