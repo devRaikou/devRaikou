@@ -31,7 +31,7 @@ Short version:
 👉 https://raikou.dev
 
 ### 📫 Hit Me Up
-📧 **raikou@reape.rs**
+📧 **raikou@reape.rs** or **devraikou@gmail.com** 
 
 Open to new projects, freelance gigs, collabs, weird ideas —  
 if it’s interesting, I’m down. 🤝
