@@ -2,36 +2,50 @@
   <img src="/banner.jpg" width="700" />
 </p>
 
-Yo 👋  
-I’m **devRaikou**.
+## Raikou
 
-I live on the backend side of things.  
-I build systems, break them, fix them, then make them faster.  
-If it’s slow, messy, or duct-taped together — yeah, that bugs me.
+I build stuff for the web.  
+Frontend, backend — whatever the system needs.
 
-Mostly into **Java backend stuff** and **Minecraft plugin development**,  
-but I also mess around with modern web apps when needed.  
-APIs, servers, performance tuning… that’s my playground.
+Mostly doing **full-stack web** work,  
+**Next.js** is home base.  
+APIs, databases, servers — that’s the daily routine.
 
-### 🧠 Stuff I Actually Use
-- **Java** (Minecraft plugins, backend logic, hardcore grind)
-- **JavaScript / TypeScript**
-- **Node.js & Express**
-- **React / Next.js**
-- **MongoDB, MySQL**
-- **Linux, Docker, Nginx**
-- Git, APIs, system design, breaking things on purpose
+On the side (and sometimes way too deep),  
+I build **Java Minecraft plugins** and server systems.  
+If it runs on Java and breaks under load, I probably touched it.
 
-Short version:
-> Make it work.  
-> Make it fast.  
-> Don’t make future-me hate it.
+### What I’m Into
+- Full-stack web apps
+- Clean backends & solid frontends
+- Performance & scalability
+- Java-based Minecraft systems
 
-### 🌍 Portfolio
-👉 https://raikou.dev
+### Stack I Actually Use
+**Web**
+- Next.js (main)
+- React
+- Node.js / Express
+- MongoDB / MySQL
 
-### 📫 Hit Me Up
-📧 **raikou@reape.rs** or **devraikou@gmail.com** 
+**Minecraft / Java**
+- Java (Spigot / Paper / Velocity)
+- Custom plugins & server logic
 
-Open to new projects, freelance gigs, collabs, weird ideas —  
-if it’s interesting, I’m down. 🤝
+**Infra**
+- Linux, Docker, Nginx  
+- Git, APIs, system design
+
+> Keep it simple.  
+> Make it solid.  
+> No hacky fixes.
+
+### Links
+🌐 **https://raikou.dev**
+
+### Reach Me
+📧 **raikou@reape.rs**  
+📧 **devraikou@gmail.com**
+
+Down for web projects, Minecraft work, collabs,  
+or anything that sounds fun and not boring.
