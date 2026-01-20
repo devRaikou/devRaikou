@@ -1,51 +1,132 @@
-<p align="center">
-  <img src="/banner.jpg" width="700" />
-</p>
+```zsh
+# Arch Linux terminal-style README
 
-## Raikou
+raikou@arch  ~  ❯ neofetch
+```
 
-I build stuff for the web.  
-Frontend, backend — whatever the system needs.
+`````
+                   -`                     raikou@arch
+                  .o+`                    -------------
+                 `ooo/                    OS: Arch Linux x86_64
+                `+oooo:                   Host: Custom Build
+               `+oooooo:                  Kernel: 6.x.x-arch
+               -+oooooo+:                 Uptime: always online
+             `/:-:++oooo+:                Packages: pacman + AUR
+            `/++++/+++++++:               Shell: zsh
+           `/+++++++++++++:               Resolution: 2560x1440
+          `/+++oooooooooooo/`             WM: Hyprland
+         ./ooosssso++osssssso+`            Theme: Dark (Custom)
+        .oossssso-````/ossssss+`           Icons: Papirus-Dark
+       -osssssso.      :ssssssso.          Terminal: kitty
+      :osssssss/        osssso+++.         Editor: Cursor / Neovim
+     /ossssssss/        +ssssooo/-         CPU: High-load survivor
+   `/ossssso+/:-        -:/+osssso+-       GPU: NVIDIA / AMD
+  `+sso+:-`                 `.-/+oso:     Memory: caffeine-powered
+ `++:.                           `-/+/    Disk: never enough
+ .`                                 `/    
+`````
 
-Mostly doing **full-stack web** work,  
-**Next.js** is home base.  
-APIs, databases, servers — that’s the daily routine.
+```zsh
+raikou@arch  ~  ❯ whoami
+```
 
-On the side (and sometimes way too deep),  
-I build **Java Minecraft plugins** and server systems.  
-If it runs on Java and breaks under load, I probably touched it.
+```
+Raikou
+Full-stack Web Developer
+Java / Minecraft Systems Engineer
+```
 
-### What I’m Into
-- Full-stack web apps
-- Clean backends & solid frontends
-- Performance & scalability
-- Java-based Minecraft systems
+```zsh
+raikou@arch  ~  ❯ pwd
+```
 
-### Stack I Actually Use
-**Web**
-- Next.js (main)
-- React
-- Node.js / Express
-- MongoDB / MySQL
+```
+/home/raikou/dev
+```
 
-**Minecraft / Java**
-- Java (Spigot / Paper / Velocity)
-- Custom plugins & server logic
+```zsh
+raikou@arch  ~  ❯ ls
+```
 
-**Infra**
-- Linux, Docker, Nginx  
-- Git, APIs, system design
+```
+projects/  web/  java/  infra/  README.md
+```
 
-> Keep it simple.  
-> Make it solid.  
-> No hacky fixes.
+```zsh
+raikou@arch  ~  ❯ tree web
+```
 
-### Links
-🌐 **https://raikou.dev**
+```
+web
+├── nextjs
+├── react
+├── node
+├── express
+├── mongodb
+└── mysql
+```
 
-### Reach Me
-📧 **raikou@reape.rs**  
-📧 **devraikou@gmail.com**
+```zsh
+raikou@arch  ~  ❯ tree java
+```
 
-Down for web projects, Minecraft work, collabs,  
-or anything that sounds fun and not boring.
+```
+java
+├── spigot
+├── paper
+├── velocity
+└── custom-plugins
+```
+
+```zsh
+raikou@arch  ~  ❯ tree infra
+```
+
+```
+infra
+├── linux
+├── docker
+├── nginx
+├── git
+└── system-design
+```
+
+```zsh
+raikou@arch  ~  ❯ cat philosophy.txt
+```
+
+```
+Keep it simple.
+Make it solid.
+No hacky fixes.
+```
+
+```zsh
+raikou@arch  ~  ❯ cat links.txt
+```
+
+```
+https://raikou.dev
+```
+
+```zsh
+raikou@arch  ~  ❯ cat contact.txt
+```
+
+```
+raikou@reape.rs
+devraikou@gmail.com
+```
+
+```zsh
+raikou@arch  ~  ❯ echo "open for web projects, minecraft systems, collabs"
+```
+
+```
+open for web projects, minecraft systems, collabs
+or anything not boring
+```
+
+```zsh
+raikou@arch  ~  ❯ █
+```
