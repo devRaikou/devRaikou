@@ -1,5 +1,4 @@
 ```zsh
-# Arch Linux terminal-style README
 
 raikou@arch  ~  ❯ neofetch
 ```
@@ -19,9 +18,9 @@ raikou@arch  ~  ❯ neofetch
         .oossssso-````/ossssss+`           Icons: Papirus-Dark
        -osssssso.      :ssssssso.          Terminal: kitty
       :osssssss/        osssso+++.         Editor: Cursor / Neovim
-     /ossssssss/        +ssssooo/-         CPU: High-load survivor
-   `/ossssso+/:-        -:/+osssso+-       GPU: NVIDIA / AMD
-  `+sso+:-`                 `.-/+oso:     Memory: caffeine-powered
+     /ossssssss/        +ssssooo/-         CPU: AMD Ryzen5 5600
+   `/ossssso+/:-        -:/+osssso+-       GPU: NVIDIA RTX 4060 8GB
+  `+sso+:-`                 `.-/+oso:     Memory: caffeine-powere
  `++:.                           `-/+/    Disk: never enough
  .`                                 `/    
 `````
@@ -33,7 +32,7 @@ raikou@arch  ~  ❯ whoami
 ```
 Raikou
 Full-stack Web Developer
-Java / Minecraft Systems Engineer
+Java / Minecraft Developer
 ```
 
 ```zsh
