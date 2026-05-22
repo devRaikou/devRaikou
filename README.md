@@ -35,7 +35,7 @@ Scalable web backends
 https://raikou.dev  
 
 ### Contact
-raikou@reape.rs · devraikou@gmail.com  
+raikou@survivalgam.es · devraikou@gmail.com  
 
 ---
 
