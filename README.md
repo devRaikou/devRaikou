@@ -17,7 +17,7 @@
 <a href="https://github.com/devRaikou">
   <img src="https://img.shields.io/badge/devRaikou-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:raikou@survivalgam.es">
+<a href="mailto:arda@gulez.dev">
   <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -134,7 +134,7 @@ scalable backend infrastructure and production-ready web applications.
 
 <br/>
 
-<a href="mailto:raikou@survivalgam.es">[raikou@survivalgam.es](mailto:raikou@survivalgam.es)</a>
+<a href="mailto:raikou@survivalgam.es">[arda@gulez.dev](mailto:raikou@survivalgam.es)</a>
  ·  <a href="mailto:devraikou@gmail.com">[devraikou@gmail.com](mailto:devraikou@gmail.com)</a>
 
 <br/><br/>
