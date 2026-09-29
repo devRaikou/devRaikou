@@ -23,7 +23,15 @@ I'm a full-stack developer focused on reliable backend systems, Minecraft server
 
 ### Stack
 
-Java · Spigot · Paper · Velocity · Next.js · React · Node.js · MongoDB · MySQL · Docker · Nginx · Linux
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,mysql,redis,mongodb,docker,nginx,linux&perline=12" />
+  <br>
+  <img src="https://img.shields.io/badge/Paper-222222?style=for-the-badge&logo=papermc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velocity-4B4BFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spigot-F5A623?style=for-the-badge&logoColor=white" />
+
+</div>
 
 ### Philosophy
 
