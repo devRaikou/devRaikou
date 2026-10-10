@@ -39,7 +39,7 @@ I'm a full-stack developer focused on reliable backend systems, Minecraft server
 
 ### Links
 
-- Website: [raikou.dev](https://gulez.dev)
+- Website: [gulez.dev](https://gulez.dev)
 - Email: [arda@gulez.dev](mailto:arda@gulez.dev)
 - GitHub: [@devRaikou](https://github.com/devRaikou)
 - Location: Ankara, Turkey
